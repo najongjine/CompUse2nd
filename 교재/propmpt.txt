@@ -1,8 +1,8 @@
-https://www.youtube.com/watch?v=_gzltgGKIQU&list=PLChG53KkaXf_GfmFqwdeCDJYBqDsDFK1g&index=20
+https://www.youtube.com/watch?v=AChuIe4KasE&list=PLChG53KkaXf_GfmFqwdeCDJYBqDsDFK1g&index=22
 
 이걸 참조해서
 
-데이터 표
+시나리오 
 교재를 만들어줘.
 
 * 쉽게 이해가 가능하게 이론 설명.
@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=_gzltgGKIQU&list=PLChG53KkaXf_GfmFqwdeCDJYBqDsDF
 * 글만 좌잘좌잘하는게 아니라 실제 화면을 이미지로 보여주면서 설명
 
 * 만약 메뉴를 찾아 들어가야되면, 메뉴 찾아 들어가는것도 시각화가 필요.
+
+* 가짜화면 금지
