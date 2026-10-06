@@ -4,6 +4,7 @@
 
 
 이거 excel 교재로 만들어줘. 
+msword 와 excel 파일로. 
 C:\Users\FORYOUCOM\Documents\CompUse2nd\교재\엑셀교재v2
 이쪽 경로에.
 
