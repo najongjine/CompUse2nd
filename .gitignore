@@ -1,5 +1,12 @@
 # Microsoft Office temporary lock files
 ~$*
 .docx_work
+.autofilter_work
 /.docx_work
+/.autofilter_work
 /tmp
+
+# GPT-generated working folders and inspection reports
+.*_work/
+autofilter_work/
+*.inspect.ndjson
